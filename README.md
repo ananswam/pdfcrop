@@ -1,6 +1,6 @@
 # PDFCrop
 
-This is a macOS application for cropping PDFs. You can download the `.tar.gz` from [here](https://github.com/ananswam/pdfcrop/releases/download/v0.0.1/PDFCrop.tar,gz) or build it yourself.
+This is a macOS application for cropping PDFs. You can download the `.tar.gz` from [here](https://github.com/ananswam/pdfcrop/releases/download/v0.0.1/PDFCrop.tar.gz) or build it yourself.
 
 ## Building and Running
 
