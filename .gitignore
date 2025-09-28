@@ -1,3 +1,8 @@
 ignore/
+.DS_Store
+
 .venv/
 .mypy_cache
+.build
+PDFCrop.app/
+PDFCrop.dmg
