@@ -21,7 +21,3 @@ To set up the application icon, use the `setup_icon.sh` script. This script take
 ```
 
 This will generate the `AppIcon.iconset` directory with all the required icon sizes.
-
-## Python Scripts
-
-The original Python scripts for this project have been moved to the `python` directory. See the `README.md` file in that directory for more information.
